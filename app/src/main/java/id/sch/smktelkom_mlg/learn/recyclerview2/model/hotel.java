@@ -1,6 +1,7 @@
-package id.sch.smktelkom_mlg.learn.recyclerview1.model;
+package id.sch.smktelkom_mlg.learn.recyclerview2.model;
 
 import android.graphics.drawable.Drawable;
+
 
 public class hotel {
     public String judul;
